@@ -15,3 +15,4 @@ The purpose of this analysis is to determine whether or not the surf and ice cre
 *	The average temperature for June is 74 degrees, while the average temperature for December is 71 degrees.
 
 ## Summary
+In summary, June and December are very close in terms of maximum, minimum, and average temperatures. This indicates that Oahu is an ideal location to set up a surf and ice cream shop that can operate year-round. Another query that can be made regarding weather in June and December could be on the average amount of storms that impact the island. Lastly, a query on wind speeds for the months of June and December would be beneficial as it affects surfing conditions. 
